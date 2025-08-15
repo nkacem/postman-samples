@@ -25,6 +25,13 @@
                     },
                     "timeOffPolicyCode": {
                         "codeValue": "B_EVT3"
+                    },
+                    "entryTypeCode": {
+                        "codeValue": "I"
+                    },
+                    "timeOffCategoryCode": {
+                        "codeValue": "DIVERS",
+                        "shortName": "Divers"
                     }
                 }
             ],
@@ -39,4 +46,5 @@
     "meta": {
         "totalNumber": 1
     }
+
 }
