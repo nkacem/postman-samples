@@ -33,6 +33,13 @@
                     "dayPeriodEndCode": {
                         "codeValue": "M",
                         "shortName": "Matin"
+                    },
+                    "entryTypeCode": {
+                        "codeValue": "A"
+                    },
+                    "timeOffCategoryCode": {
+                        "codeValue": "CONGES",
+                        "shortName": "Congés"
                     }
                 }
             ],
@@ -48,3 +55,4 @@
         "totalNumber": 1
     }
 }
+
