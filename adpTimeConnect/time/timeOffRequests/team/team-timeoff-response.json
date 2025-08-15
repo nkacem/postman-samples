@@ -36,7 +36,14 @@
                     "timeOffPolicyCode": {
                         "codeValue": "B_CP1"
                     },
-                    "dailyTimeDuration": "04:00"
+                    "dailyTimeDuration": "04:00",
+                    "entryTypeCode": {
+                        "codeValue": "A"
+                    },
+                    "timeOffCategoryCode": {
+                        "codeValue": "CONGES",
+                        "shortName": "Congés"
+                    }
                 }
             ],
             "associateOID": "IUHYBGRZ1555EZAF"
@@ -75,6 +82,13 @@
                     "dayPeriodEndCode": {
                         "codeValue": "A",
                         "shortName": "Après-midi"
+                    },
+                    "entryTypeCode": {
+                        "codeValue": "I"
+                    },
+                    "timeOffCategoryCode": {
+                        "codeValue": "DIVERS",
+                        "shortName": "Divers"
                     }
                 }
             ],
@@ -113,6 +127,13 @@
                     },
                     "timeOffPolicyCode": {
                         "codeValue": "ASINT"
+                    },
+                    "entryTypeCode": {
+                        "codeValue": "I"
+                    },
+                    "timeOffCategoryCode": {
+                        "codeValue": "DIVERS",
+                        "shortName": "Divers"
                     }
                 }
             ],
@@ -175,6 +196,13 @@
                     "dayPeriodEndCode": {
                         "codeValue": "A",
                         "shortName": "Après-midi"
+                    },
+                    "entryTypeCode": {
+                        "codeValue": "I"
+                    },
+                    "timeOffCategoryCode": {
+                        "codeValue": "DIVERS",
+                        "shortName": "Divers"
                     }
                 }
             ],
@@ -221,10 +249,18 @@
                     "dayPeriodEndCode": {
                         "codeValue": "A",
                         "shortName": "Après-midi"
+                    },
+                    "entryTypeCode": {
+                        "codeValue": "A"
+                    },
+                    "timeOffCategoryCode": {
+                        "codeValue": "CONGES",
+                        "shortName": "Congés"
                     }
                 }
             ],
             "associateOID": "G09910032"
         }
     ]
+
 }
