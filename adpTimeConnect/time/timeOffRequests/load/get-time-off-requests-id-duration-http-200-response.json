@@ -29,7 +29,14 @@
                     "timeOffPolicyCode": {
                         "codeValue": "B_ABS2"
                     },
-                    "dailyTimeDuration": "05:00"
+                    "dailyTimeDuration": "05:00",
+                    "entryTypeCode": {
+                        "codeValue": "A"
+                    },
+                    "timeOffCategoryCode": {
+                        "codeValue": "ABSENCE",
+                        "shortName": "Absence"
+                    }
                 }
             ],
             "actions": [
@@ -43,4 +50,5 @@
     "meta": {
         "totalNumber": 1
     }
+
 }
