@@ -31,7 +31,14 @@
 			"dayPeriodEndCode": {
 				"codeValue": "2",
 				"shortName": "Après-midi"
-			}
+			},
+            "entryTypeCode": {
+                 "codeValue": "A"
+             },
+            "timeOffCategoryCode": {
+                 "codeValue": "CONGES",
+                 "shortName": "Congés"
+             }
 		}],
 		"actions": [{
 			"operationID": "timeOffRequest.cancel"
@@ -71,7 +78,14 @@
 			},
 			"timeOffPolicyCode": {
 				"codeValue": "B_EVT1"
-			}
+			},
+			"entryTypeCode": {
+                "codeValue": "I"
+             },
+            "timeOffCategoryCode": {
+                "codeValue": "DIVERS",
+                "shortName": "Divers"
+             }
 		}],
 		"actions": [{
 			"operationID": "timeOffRequest.cancel"
@@ -107,7 +121,14 @@
 			},
 			"timeOffPolicyCode": {
 				"codeValue": "B_CP1"
-			}
+			},
+			"entryTypeCode": {
+                "codeValue": "A"
+             },
+            "timeOffCategoryCode": {
+                "codeValue": "CONGES",
+                "shortName": "Congés"
+             }
 		}],
 		"associateOID": "AO0N1KB0218MBI8"
 	},
@@ -144,7 +165,14 @@
 			},
 			"timeOffPolicyCode": {
 				"codeValue": "QT1QT2"
-			}
+			},
+			"entryTypeCode": {
+                "codeValue": "I"
+             },
+            "timeOffCategoryCode": {
+                "codeValue": "DIVERS",
+                "shortName": "Divers"
+             }
 		}],
 		"associateOID": "AO0N1KB0218MBI8",
 		"visibilityScope": {
@@ -185,7 +213,14 @@
 			"dayPeriodEndCode": {
 				"codeValue": "2",
 				"shortName": "Après-midi"
-			}
+			},
+			"entryTypeCode": {
+                 "codeValue": "A"
+             },
+            "timeOffCategoryCode": {
+                 "codeValue": "CONGES",
+                 "shortName": "Congés"
+             }
 		}],
 		"actions": [{
 			"operationID": "timeOffRequest.cancel"
@@ -220,7 +255,14 @@
 			"dayPeriodStartCode": {
 				"codeValue": "1",
 				"shortName": "Matins"
-			}
+			},
+			"entryTypeCode": {
+                 "codeValue": "A"
+             },
+            "timeOffCategoryCode": {
+                 "codeValue": "CONGES",
+                 "shortName": "Congés"
+             }
 		}],
 		"associateOID": "AO0N1KB0218MBI8"
 	},
@@ -256,7 +298,14 @@
 			"dayPeriodEndCode": {
 				"codeValue": "1",
 				"shortName": "Matin"
-			}
+			},
+			"entryTypeCode": {
+                 "codeValue": "A"
+             },
+            "timeOffCategoryCode": {
+                 "codeValue": "CONGES",
+                 "shortName": "Congés"
+             }
 		}],
 		"associateOID": "AO0N1KB0218MBI8"
 	},
@@ -292,7 +341,14 @@
 			"dayPeriodEndCode": {
 				"codeValue": "2",
 				"shortName": "Après-midi"
-			}
+			},
+			"entryTypeCode": {
+                 "codeValue": "A"
+             },
+            "timeOffCategoryCode": {
+                 "codeValue": "CONGES",
+                 "shortName": "Congés"
+             }
 		}],
 		"associateOID": "AO0N1KB0218MBI8"
 	},
@@ -328,7 +384,14 @@
 			"dayPeriodEndCode": {
 				"codeValue": "2",
 				"shortName": "Après-midi"
-			}
+			},
+			"entryTypeCode": {
+                 "codeValue": "A"
+             },
+            "timeOffCategoryCode": {
+                 "codeValue": "CONGES",
+                 "shortName": "Congés"
+             }
 		}],
 		"actions": [{
 			"operationID": "timeOffRequest.cancel"
@@ -359,7 +422,14 @@
 			},
 			"timeOffPolicyCode": {
 				"codeValue": "INTER3"
-			}
+			},
+			"entryTypeCode": {
+                 "codeValue": "I"
+             },
+            "timeOffCategoryCode": {
+                 "codeValue": "DIVERS",
+                 "shortName": "Divers"
+             }
 		}],
 		"actions": [{
 			"operationID": "timeOffRequest.cancel"
@@ -399,7 +469,14 @@
 			"timeOffPolicyCode": {
 				"codeValue": "INTER2"
 			},
-			"dailyTimeDuration": "03:00"
+			"dailyTimeDuration": "03:00",
+			"entryTypeCode": {
+                 "codeValue": "I"
+             },
+            "timeOffCategoryCode": {
+                 "codeValue": "DIVERS",
+                 "shortName": "Divers"
+             }
 		}],
 		"actions": [{
 			"operationID": "timeOffRequest.cancel"
