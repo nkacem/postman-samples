@@ -33,6 +33,13 @@
                     "dayPeriodEndCode": {
                         "codeValue": "A",
                         "shortName": "Après-midi"
+                    },
+                    "entryTypeCode": {
+                        "codeValue": "A"
+                    },
+                    "timeOffCategoryCode": {
+                        "codeValue": "CONGES",
+                        "shortName": "Congés"
                     }
                 }
             ],
@@ -47,4 +54,5 @@
     "meta": {
         "totalNumber": 1
     }
+
 }
